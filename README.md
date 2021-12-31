@@ -401,9 +401,9 @@ ATGCTAGGGAGAGCTGCCTATATGGAAGAGCCCTAATGTGTAAAATTAATTTTAGTAGTGCTATCC
 
 
 # COVID databases
-[Pangolin](https://pangolin.cog-uk.io/)
+[Pangolin](https://pangolin.cog-uk.io/) 
 [GISAID](https://www.gisaid.org/)   
-[WHO](https://search.bvsalud.org/global-literature-on-novel-coronavirus-2019-ncov/)
+[WHO](https://search.bvsalud.org/global-literature-on-novel-coronavirus-2019-ncov/) 
 
 
 
