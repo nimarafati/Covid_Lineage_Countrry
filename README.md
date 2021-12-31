@@ -407,6 +407,9 @@ ATGCTAGGGAGAGCTGCCTATATGGAAGAGCCCTAATGTGTAAAATTAATTTTAGTAGTGCTATCC
 
 [WHO](https://search.bvsalud.org/global-literature-on-novel-coronavirus-2019-ncov/)  
 
+[NIH](https://datascience.nih.gov/covid-19-open-access-resources)   
+
+[ECDC](https://www.ecdc.europa.eu/en/covid-19/data)
 
 
 
